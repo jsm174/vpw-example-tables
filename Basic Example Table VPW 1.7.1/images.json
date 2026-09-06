@@ -1,0 +1,25 @@
+[
+  {
+    "name": "ballUVs",
+    "path": "C:\\Visual Pinball\\ballUVs.webp",
+    "is_signed": false
+  },
+  {
+    "name": "ramp_holes-3",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\_Table Dev\\Haunted Mansion\\ramp_holes-3.webp",
+    "is_opaque": false,
+    "is_signed": false
+  },
+  {
+    "name": "DropTargetBeveled",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\_Table Dev\\Bootleggers\\DropTargetBeveled.png",
+    "is_opaque": true,
+    "is_signed": false
+  },
+  {
+    "name": "Playfield",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\_Table Dev\\Example Table\\Playfield.png",
+    "is_opaque": true,
+    "is_signed": false
+  }
+]

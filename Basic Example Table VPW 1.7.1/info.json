@@ -1,0 +1,15 @@
+{
+  "table_name": "Basic VPW Example Table",
+  "author_name": null,
+  "table_blurb": null,
+  "table_rules": null,
+  "author_email": null,
+  "release_date": null,
+  "table_save_rev": "157",
+  "table_version": "1.7",
+  "author_website": null,
+  "table_save_date": "Sun Feb  1 07:34:42 2026",
+  "table_description": "# Basic VPW Example Table\r\nThis table is meant to be a starting point. It implements VPW physics and Fleep sounds. More detailed scripts and resources can be found within the main VPW Example table.\r\n\r\nThis table includes a playfield image that shows a standard Stern lower third layout. \r\n\r\nCopy and paste the walls, primitives, ramps, and targets on the left side of the table as needed.\r\n\r\n*NOTE!* You must include all new rubber posts in the dPosts collection, and all new rubber sleeves in the dSleeves collection. Also, include the other walls in their respective Fleep collections (Rubbers, Metals, Walls, etc) if you want their mechanical sound effects to work.",
+  "properties": {},
+  "properties_order": []
+}

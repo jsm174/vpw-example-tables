@@ -1,0 +1,139 @@
+[
+  {
+    "name": "GI",
+    "items": [],
+    "fire_events": false,
+    "stop_single_events": false,
+    "group_elements": true
+  },
+  {
+    "name": "dSleeves",
+    "items": [
+      "RubberSleeve",
+      "RubberSleeve001"
+    ],
+    "fire_events": true,
+    "stop_single_events": false,
+    "group_elements": false
+  },
+  {
+    "name": "dPosts",
+    "items": [
+      "RubberPost001",
+      "RubberPeg",
+      "RubberPeg004",
+      "RubberPeg003",
+      "RubberPost005",
+      "RubberPost004",
+      "RubberPost_rightsling",
+      "RubberPost_leftsling",
+      "RubberPost002",
+      "RubberPost003",
+      "RubberPeg002",
+      "RubberPost006",
+      "RubberPost007",
+      "RubberPost008"
+    ],
+    "fire_events": true,
+    "stop_single_events": false,
+    "group_elements": false
+  },
+  {
+    "name": "Targets",
+    "items": [],
+    "fire_events": true,
+    "stop_single_events": false,
+    "group_elements": false
+  },
+  {
+    "name": "Gates",
+    "items": [],
+    "fire_events": true,
+    "stop_single_events": false,
+    "group_elements": true
+  },
+  {
+    "name": "Rubbers",
+    "items": [
+      "EndPoint2RS",
+      "EndPoint1RS",
+      "RubberSleeve",
+      "RightSlingshot",
+      "RubberBandWall",
+      "RubberBandWall003",
+      "RubberPeg004",
+      "RubberPeg003",
+      "RubberPost004",
+      "RubberPost005",
+      "RubberPost_rightsling",
+      "RubberPost_leftsling",
+      "RubberPost002",
+      "RubberPost003",
+      "RubberPeg002",
+      "RubberPost007",
+      "RubberPost006",
+      "RubberPost008",
+      "RubberPost001",
+      "RubberPeg",
+      "RubberSleeve001",
+      "RubberBandWall001"
+    ],
+    "fire_events": true,
+    "stop_single_events": false,
+    "group_elements": false
+  },
+  {
+    "name": "Walls",
+    "items": [
+      "WoodWall003",
+      "WoodWall002",
+      "WoodWall001"
+    ],
+    "fire_events": true,
+    "stop_single_events": false,
+    "group_elements": false
+  },
+  {
+    "name": "Rollovers",
+    "items": [],
+    "fire_events": true,
+    "stop_single_events": false,
+    "group_elements": false
+  },
+  {
+    "name": "GatesWire",
+    "items": [],
+    "fire_events": true,
+    "stop_single_events": false,
+    "group_elements": false
+  },
+  {
+    "name": "Metals",
+    "items": [
+      "MetalWall003",
+      "MetalWall004"
+    ],
+    "fire_events": true,
+    "stop_single_events": false,
+    "group_elements": false
+  },
+  {
+    "name": "Apron",
+    "items": [
+      "MetalWall002",
+      "MetalWall001"
+    ],
+    "fire_events": true,
+    "stop_single_events": false,
+    "group_elements": false
+  },
+  {
+    "name": "DropTargets",
+    "items": [
+      "DropTarget001"
+    ],
+    "fire_events": true,
+    "stop_single_events": false,
+    "group_elements": false
+  }
+]

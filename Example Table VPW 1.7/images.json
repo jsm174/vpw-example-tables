@@ -1,0 +1,1370 @@
+[
+  {
+    "name": "Scratches",
+    "path": "C:\\Models\\Scratches.png",
+    "alpha_test_value": 128.0,
+    "is_signed": false
+  },
+  {
+    "name": "emkicker-t1",
+    "path": "C:\\UPin\\emkicker-t1.png",
+    "alpha_test_value": 1.0,
+    "is_opaque": true,
+    "is_signed": false
+  },
+  {
+    "name": "bumper-cap-t5",
+    "path": "C:\\UPin\\bumper-cap-t5.png",
+    "alpha_test_value": 128.0,
+    "is_signed": false
+  },
+  {
+    "name": "bumper-cap-t2(2)",
+    "path": "C:\\UPin\\bumper-cap-t2(2).png",
+    "alpha_test_value": 128.0,
+    "is_signed": false
+  },
+  {
+    "name": "spinner",
+    "path": "C:\\UPin\\spinner.png",
+    "alpha_test_value": 128.0,
+    "is_opaque": true,
+    "is_signed": false
+  },
+  {
+    "name": "sidewood._h",
+    "path": "C:\\UPin\\sidewood_h.png",
+    "alpha_test_value": 128.0,
+    "is_opaque": true,
+    "is_signed": false,
+    "jpeg_name": "sidewood_h"
+  },
+  {
+    "name": "rubber-post-t1-black",
+    "path": "C:\\UPin\\rubber-post-t1-black.png",
+    "alpha_test_value": 128.0,
+    "is_opaque": true,
+    "is_signed": false
+  },
+  {
+    "name": "ColorGradeLUT256x16_1to1",
+    "path": "C:\\ColorGradeLUT256x16_1to1.png",
+    "alpha_test_value": 128.0,
+    "is_signed": false
+  },
+  {
+    "name": "metal3",
+    "path": "E:\\Pinball\\Tables\\!Fire\\Images\\metal3.jpg",
+    "alpha_test_value": 128.0,
+    "is_opaque": true,
+    "is_signed": false
+  },
+  {
+    "name": "bumper-cap-t3",
+    "path": "C:\\UPin\\bumper-cap-t3.png",
+    "alpha_test_value": 128.0,
+    "is_signed": false
+  },
+  {
+    "name": "ColorGradeLUT256x16_ConSat",
+    "path": "C:\\ColorGradeLUT256x16_ConSat.png",
+    "alpha_test_value": 128.0,
+    "is_signed": false
+  },
+  {
+    "name": "rubber-emwheel",
+    "path": "C:\\Program Files (x86)\\Pinball\\Tables\\vp10 materials\\rubber-emwheel.png",
+    "alpha_test_value": 128.0,
+    "is_signed": false
+  },
+  {
+    "name": "bumper-cap-t2",
+    "path": "C:\\UPin\\bumper-cap-t2.png",
+    "alpha_test_value": 128.0,
+    "is_signed": false
+  },
+  {
+    "name": "sidewood",
+    "path": "C:\\UPin\\sidewood.png",
+    "alpha_test_value": 1.0,
+    "is_opaque": true,
+    "is_signed": false
+  },
+  {
+    "name": "purple peg",
+    "path": "E:\\Pinball\\Tables\\!Fire\\Images\\Red peg.png",
+    "alpha_test_value": 128.0,
+    "is_opaque": true,
+    "is_signed": false,
+    "jpeg_name": "Red peg"
+  },
+  {
+    "name": "bumper-cap-t4",
+    "path": "C:\\UPin\\bumper-cap-t4.png",
+    "alpha_test_value": 128.0,
+    "is_signed": false
+  },
+  {
+    "name": "CustomBlackTip",
+    "path": "D:\\temp\\CustomBlackTip.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "ColorGradeLUT256x16_Sepia",
+    "path": "C:\\ColorGradeLUT256x16_Sepia.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "CustomWhiteTip",
+    "path": "D:\\temp\\CustomWhiteTip.png",
+    "alpha_test_value": 1.0,
+    "is_opaque": true,
+    "is_signed": false
+  },
+  {
+    "name": "DropTargetBeveled",
+    "path": "E:\\Tables\\Models\\DropTargetBeveled.png",
+    "alpha_test_value": 1.0,
+    "is_opaque": true,
+    "is_signed": false
+  },
+  {
+    "name": "HitTarget",
+    "path": "E:\\Tables\\Models\\HitTarget.png",
+    "alpha_test_value": 1.0,
+    "is_opaque": true,
+    "is_signed": false
+  },
+  {
+    "name": "Rail_Right_Brighter",
+    "path": "E:\\Pinball\\Tables\\Materials\\Left_rail_brighter.png",
+    "alpha_test_value": 128.0,
+    "is_signed": false,
+    "jpeg_name": "Left_rail_brighter"
+  },
+  {
+    "name": "Rail_Right_Brighter",
+    "path": "E:\\Pinball\\Tables\\Materials\\Right_rail_brighter.png",
+    "alpha_test_value": 128.0,
+    "is_signed": false,
+    "jpeg_name": "Right_rail_brighter",
+    "name_dedup": "Rail_Right_Brighter_dedup1"
+  },
+  {
+    "name": "DropTargetSimple",
+    "path": "E:\\Tables\\Models\\DropTargetSimple.png",
+    "alpha_test_value": 1.0,
+    "is_opaque": true,
+    "is_signed": false
+  },
+  {
+    "name": "ballshadow",
+    "path": "C:\\Users\\HP i7\\Downloads\\VP_old\\makeover stuff\\ballshadow.png",
+    "alpha_test_value": 1.0,
+    "is_opaque": false,
+    "is_signed": false
+  },
+  {
+    "name": "flippers_shadow",
+    "path": "C:\\Users\\HP i7\\Downloads\\VP_old\\makeover stuff\\flippers_shadow.png",
+    "alpha_test_value": 1.0,
+    "is_opaque": false,
+    "is_signed": false
+  },
+  {
+    "name": "LockdownBarreal-JR",
+    "path": "E:\\Pinball\\Tables\\Materials\\LockdownBarreal-JR.png",
+    "alpha_test_value": 128.0,
+    "is_signed": false
+  },
+  {
+    "name": "PlungerCover",
+    "path": "E:\\Pinball\\Tables\\!Fire\\Images\\PlungerCover.png",
+    "alpha_test_value": 128.0,
+    "is_opaque": false,
+    "is_signed": false
+  },
+  {
+    "name": "angle",
+    "path": "C:\\Users\\borgd\\Documents\\OneDrive\\Pinball\\_Resources\\angle.png",
+    "is_signed": false
+  },
+  {
+    "name": "p1-beachwood",
+    "path": "E:\\pinballArtwork\\PBTextures\\p1-beachwood.jpg",
+    "alpha_test_value": 128.0,
+    "is_signed": false
+  },
+  {
+    "name": "ball_HDR",
+    "path": "C:\\ball_HDR.hdr",
+    "alpha_test_value": 1.0,
+    "is_opaque": true,
+    "is_signed": false
+  },
+  {
+    "name": "ApronGenericWilliams",
+    "path": "E:\\Pinball\\Tables\\!Fire\\Images\\ApronGenericWilliams.png",
+    "alpha_test_value": 128.0,
+    "is_opaque": true,
+    "is_signed": false
+  },
+  {
+    "name": "mm",
+    "path": "C:\\mm.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "flipperImage-testW",
+    "path": "E:\\\\flipperImage-testW.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "flipperImage-test",
+    "path": "E:\\\\flipperImage-test.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "bally_miniflipper_right",
+    "path": "C:\\Users\\borgd\\Documents\\OneDrive\\Pinball\\_Resources\\flippers\\bally_miniflipper\\bally_miniflipper_right.jpg",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "inches",
+    "path": "C:\\inches.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "kickerHoleWood",
+    "path": "F:\\vp\\res\\kickerHoleWood.bmp",
+    "alpha_test_value": 1.0,
+    "is_opaque": true,
+    "is_signed": false
+  },
+  {
+    "name": "kickerGottlieb",
+    "path": "F:\\vp\\res\\kickerGottlieb.bmp",
+    "alpha_test_value": 1.0,
+    "is_opaque": true,
+    "is_signed": false
+  },
+  {
+    "name": "kickerWilliams",
+    "path": "F:\\vp\\res\\kickerWilliams.bmp",
+    "alpha_test_value": 1.0,
+    "is_opaque": true,
+    "is_signed": false
+  },
+  {
+    "name": "kickerCup",
+    "path": "F:\\vp\\res\\kickerCup.bmp",
+    "alpha_test_value": 1.0,
+    "is_opaque": true,
+    "is_signed": false
+  },
+  {
+    "name": "bally_miniflipper_left",
+    "path": "C:\\Users\\borgd\\Documents\\OneDrive\\Pinball\\_Resources\\flippers\\bally_miniflipper\\bally_miniflipper_left.jpg",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "bsrtx7",
+    "path": "E:\\VP Resources\\Images\\RtxBS\\bsrtx7.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "kickerT1",
+    "path": "F:\\vp\\res\\kickerT1.bmp",
+    "alpha_test_value": 1.0,
+    "is_opaque": true,
+    "is_signed": false
+  },
+  {
+    "name": "flipper_williams_logo_Right",
+    "path": "C:\\VPX4\\tables\\makeover stuff\\flipper_williams_logo_Right.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "flipper_williams_logo_Left",
+    "path": "C:\\VPX4\\tables\\makeover stuff\\flipper_williams_logo_Left.png",
+    "alpha_test_value": 1.0,
+    "is_opaque": false,
+    "is_signed": false
+  },
+  {
+    "name": "inchesandmm",
+    "path": "C:\\inchesandmm.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "sidewood_h_black",
+    "path": "C:\\Visual Pinball\\Tables VR\\VR Room WIP\\sidewood_h-Black.png",
+    "alpha_test_value": 1.0,
+    "is_opaque": true,
+    "is_signed": false,
+    "jpeg_name": "sidewood_h-Black"
+  },
+  {
+    "name": "Colour_Dark",
+    "path": "C:\\Visual Pinball\\Tables VR\\VR Room WIP\\_Assets\\Colours\\Colour_Dark.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "sidewood_black",
+    "path": "C:\\Visual Pinball\\Tables VR\\VR Room WIP\\sidewood_v-Black.png",
+    "alpha_test_value": 1.0,
+    "is_opaque": true,
+    "is_signed": false,
+    "jpeg_name": "sidewood_v-Black"
+  },
+  {
+    "name": "flipper_gottlieb_right",
+    "path": "C:\\Users\\borgd\\Documents\\OneDrive\\Pinball\\_Resources\\flippers\\Gottlieb_big_Flipper\\flipper_gottlieb_right2.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false,
+    "jpeg_name": "flipper_gottlieb_right2"
+  },
+  {
+    "name": "flipper_yellow_red_Left",
+    "path": "C:\\VPX4\\tables\\makeover stuff\\flipper_yellow_red_Left.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "flipper_gottlieb_left",
+    "path": "C:\\Users\\borgd\\Documents\\OneDrive\\Pinball\\_Resources\\flippers\\Gottlieb_big_Flipper\\flipper_gottlieb_left2.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false,
+    "jpeg_name": "flipper_gottlieb_left2"
+  },
+  {
+    "name": "gottlieb_flipper_red",
+    "path": "C:\\Users\\borgd\\Documents\\OneDrive\\Pinball\\_Resources\\flippers\\newer_gottlieb_flipper\\gottlieb_flipper_red.jpg",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "flipper_yellow_red_Right",
+    "path": "C:\\VPX4\\tables\\makeover stuff\\flipper_yellow_red_Right.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "gottlieb_mini_flipper_right",
+    "path": "C:\\Users\\borgd\\Documents\\OneDrive\\Pinball\\_Resources\\flippers\\gottlieb_mini_flipper\\gottlieb_mini_flipper_right.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "gottlieb_mini_flipper_left",
+    "path": "C:\\Users\\borgd\\Documents\\OneDrive\\Pinball\\_Resources\\flippers\\gottlieb_mini_flipper\\gottlieb_mini_flipper_left.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "williamsbatnoWblack",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\_Table Dev\\Example Table\\williamsbatnoWblack.png",
+    "alpha_test_value": 1.0,
+    "is_opaque": true,
+    "is_signed": false
+  },
+  {
+    "name": "VR_Floor",
+    "path": "C:\\Visual Pinball\\Tables VR\\VR Room WIP\\_Assets\\Room\\VR_Floor.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "VR_Roof",
+    "path": "C:\\Visual Pinball\\Tables VR\\VR Room WIP\\_Assets\\Room\\VR_Roof.jpg",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "Backglassimage",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\_Table Dev\\Example Table\\Pincab_Backglass.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false,
+    "jpeg_name": "Pincab_Backglass"
+  },
+  {
+    "name": "dome2baseblue",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\Flupper Domes\\Flasher Textures\\dome2baseblue.png",
+    "alpha_test_value": 1.0,
+    "is_opaque": false,
+    "is_signed": false
+  },
+  {
+    "name": "dome2basegreen",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\Flupper Domes\\Flasher Textures\\dome2basegreen.png",
+    "alpha_test_value": 1.0,
+    "is_opaque": false,
+    "is_signed": false
+  },
+  {
+    "name": "dome2basepurple",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\Flupper Domes\\Flasher Textures\\dome2basepurple.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "dome2basewhite",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\Flupper Domes\\Flasher Textures\\dome2basewhite.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "dome2basered",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\Flupper Domes\\Flasher Textures\\dome2basered.png",
+    "alpha_test_value": 1.0,
+    "is_opaque": false,
+    "is_signed": false
+  },
+  {
+    "name": "dome2baseyellow",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\Flupper Domes\\Flasher Textures\\dome2baseyellow.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "dome2litblue",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\Flupper Domes\\Flasher Textures\\dome2litblue.png",
+    "alpha_test_value": 1.0,
+    "is_opaque": false,
+    "is_signed": false
+  },
+  {
+    "name": "dome2litgreen",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\Flupper Domes\\Flasher Textures\\dome2litgreen.png",
+    "alpha_test_value": 1.0,
+    "is_opaque": false,
+    "is_signed": false
+  },
+  {
+    "name": "dome2litred",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\Flupper Domes\\Flasher Textures\\dome2litred.png",
+    "alpha_test_value": 1.0,
+    "is_opaque": true,
+    "is_signed": false
+  },
+  {
+    "name": "dome2litpurple",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\Flupper Domes\\Flasher Textures\\dome2litpurple.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "dome2litwhite",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\Flupper Domes\\Flasher Textures\\dome2litwhite.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "dome2lityellow",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\Flupper Domes\\Flasher Textures\\dome2lityellow.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "domeearbaseblue",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\Flupper Domes\\Flasher Textures\\domeearbaseblue.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "domeearbasegreen",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\Flupper Domes\\Flasher Textures\\domeearbasegreen.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "domeearbasepurple",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\Flupper Domes\\Flasher Textures\\domeearbasepurple.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "domeearbasered",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\Flupper Domes\\Flasher Textures\\domeearbasered.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "domeearbasewhite",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\Flupper Domes\\Flasher Textures\\domeearbasewhite.png",
+    "alpha_test_value": 1.0,
+    "is_opaque": false,
+    "is_signed": false
+  },
+  {
+    "name": "domeearbaseyellow",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\Flupper Domes\\Flasher Textures\\domeearbaseyellow.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "domeearlitgreen",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\Flupper Domes\\Flasher Textures\\domeearlitgreen.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "domeearlitblue",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\Flupper Domes\\Flasher Textures\\domeearlitblue.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "domeearlitred",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\Flupper Domes\\Flasher Textures\\domeearlitred.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "domeearlitwhite",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\Flupper Domes\\Flasher Textures\\domeearlitwhite.png",
+    "alpha_test_value": 1.0,
+    "is_opaque": false,
+    "is_signed": false
+  },
+  {
+    "name": "domeearlitpurple",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\Flupper Domes\\Flasher Textures\\domeearlitpurple.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "Sideblades_Black",
+    "path": "C:\\Visual Pinball\\Tables VR\\VR Room WIP\\__Template Tables\\PinCab_Blades.png",
+    "alpha_test_value": 1.0,
+    "is_opaque": true,
+    "is_signed": false,
+    "jpeg_name": "PinCab_Blades"
+  },
+  {
+    "name": "kruiskopcolor",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\Flupper Domes\\Flasher Textures\\kruiskopcolor.jpg",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "domeearlityellow",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\Flupper Domes\\Flasher Textures\\domeearlityellow.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "ronddomebaseblue",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\Flupper Domes\\Flasher Textures\\ronddomebaseblue.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "ronddomebasegreen",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\Flupper Domes\\Flasher Textures\\ronddomebasegreen.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "ronddomebasepurple",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\Flupper Domes\\Flasher Textures\\ronddomebasepurple.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "environment_shiny3blur4",
+    "path": "C:\\VPX4\\tables\\makeover stuff\\environment_shiny3blur4.hdr",
+    "alpha_test_value": 1.0,
+    "is_opaque": true,
+    "is_signed": false
+  },
+  {
+    "name": "ronddomebasered",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\Flupper Domes\\Flasher Textures\\ronddomebasered.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "ronddomebasewhite",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\Flupper Domes\\Flasher Textures\\ronddomebasewhite.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "domeflashwhite",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\Flupper Domes\\Flasher Textures\\domeflashwhite.jpg",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "ronddomelitblue",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\Flupper Domes\\Flasher Textures\\ronddomelitblue.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "ronddomebaseyellow",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\Flupper Domes\\Flasher Textures\\ronddomebaseyellow.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "ronddomelitgreen",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\Flupper Domes\\Flasher Textures\\ronddomelitgreen.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "ronddomelitpurple",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\Flupper Domes\\Flasher Textures\\ronddomelitpurple.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "ronddomelitred",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\Flupper Domes\\Flasher Textures\\ronddomelitred.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "Pincab_Cabinet",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\_Table Dev\\Example Table\\Eample_Pincab_Cabinet.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false,
+    "jpeg_name": "Eample_Pincab_Cabinet"
+  },
+  {
+    "name": "ronddomelitwhite",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\Flupper Domes\\Flasher Textures\\ronddomelitwhite.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "ronddomelityellow",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\Flupper Domes\\Flasher Textures\\ronddomelityellow.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "targetflasher",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\Flupper Domes\\Flasher Textures\\targetflasher.jpg",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "VR_Wall_Right",
+    "path": "C:\\Visual Pinball\\Tables VR\\VR Room WIP\\_Assets\\Room\\VR_Wall_Right.jpg",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "Pincab_Backbox",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\_Table Dev\\Example Table\\Example_Pincab_Backbox.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false,
+    "jpeg_name": "Example_Pincab_Backbox"
+  },
+  {
+    "name": "flasherbloomCenterRight",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\_Table Dev\\Example Table\\flasherbloomCenterRight.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "Insert_Arrow1off4_180",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\3D Inserts\\Images\\Insert_Arrow1off4_180.png",
+    "alpha_test_value": 1.0,
+    "is_opaque": false,
+    "is_signed": false
+  },
+  {
+    "name": "flasherbloomLowerLeft",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\_Table Dev\\Example Table\\flasherbloomLowerLeft.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "Insert_Arrow2offb",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\3D Inserts\\Images\\Insert_Arrow2offb.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "Insert_Arrow1on180_",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\3D Inserts\\Images\\Insert_Arrow1on180_.png",
+    "alpha_test_value": 1.0,
+    "is_opaque": true,
+    "is_signed": false
+  },
+  {
+    "name": "VR_Wall_Left",
+    "path": "C:\\Visual Pinball\\Tables VR\\VR Room WIP\\_Assets\\Room\\VR_Wall_Left.jpg",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "Insert_Arrow2on_",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\3D Inserts\\Images\\Insert_Arrow2on_.png",
+    "alpha_test_value": 1.0,
+    "is_opaque": true,
+    "is_signed": false
+  },
+  {
+    "name": "flasherbloomCenterLeft",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\_Table Dev\\Example Table\\flasherbloomCenterLeft.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "Insert_Diamond On",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\3D Inserts\\Images\\Insert_Diamond On.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "flasherbloomCenter",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\_Table Dev\\Example Table\\flasherbloomCenter.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "Insert_DiamondOff",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\3D Inserts\\Images\\Insert_DiamondOff.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "Insert_Rec_Star_OFF_ap",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\3D Inserts\\Images\\Insert_Rec_Star_OFF_ap.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "Insert_Rec_Star_ON_ap",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\3D Inserts\\Images\\Insert_Rec_Star_ON_ap.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "Insert_Rec_Star_OFF_sm",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\3D Inserts\\Images\\Insert_Rec_Star_OFF_sm.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "Insert_rect1offb",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\3D Inserts\\Images\\Insert_rect1offb.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "Insert_Rec_Star_ON_sm",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\3D Inserts\\Images\\Insert_Rec_Star_ON_sm.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "Insert_rect1off",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\3D Inserts\\Images\\Insert_rect1off.png",
+    "alpha_test_value": 1.0,
+    "is_opaque": false,
+    "is_signed": false
+  },
+  {
+    "name": "Insert_rect1onhorizontal",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\3D Inserts\\Images\\Insert_rect1onhorizontal.png",
+    "alpha_test_value": 1.0,
+    "is_opaque": false,
+    "is_signed": false
+  },
+  {
+    "name": "Insert_round1off5_",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\3D Inserts\\Images\\Insert_round1off5_.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "Insert_round1off3d_",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\3D Inserts\\Images\\Insert_round1off3d_.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "Insert_rect1onvertical",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\3D Inserts\\Images\\Insert_rect1onvertical.png",
+    "alpha_test_value": 1.0,
+    "is_opaque": false,
+    "is_signed": false
+  },
+  {
+    "name": "Insert_rect1onhorizontalb",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\3D Inserts\\Images\\Insert_rect1onhorizontalb.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "flasherbloomLowerRight",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\_Table Dev\\Example Table\\flasherbloomLowerRight.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "Insert_round1on_",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\3D Inserts\\Images\\Insert_round1on_.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "Insert_round1off5b",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\3D Inserts\\Images\\Insert_round1off5b.png",
+    "alpha_test_value": 1.0,
+    "is_opaque": true,
+    "is_signed": false
+  },
+  {
+    "name": "Insert_round1off5c",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\3D Inserts\\Images\\Insert_round1off5c.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "Insert_round1off5d",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\3D Inserts\\Images\\Insert_round1off5d.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "Insert_round1off5special_",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\3D Inserts\\Images\\Insert_round1off5special_.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "Insert_round3off_",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\3D Inserts\\Images\\Insert_round3off_.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "Insert_round1onb",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\3D Inserts\\Images\\Insert_round1onb.png",
+    "alpha_test_value": 1.0,
+    "is_opaque": true,
+    "is_signed": false
+  },
+  {
+    "name": "Insert_round2on_",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\3D Inserts\\Images\\Insert_round2on_.png",
+    "alpha_test_value": 1.0,
+    "is_opaque": true,
+    "is_signed": false
+  },
+  {
+    "name": "Insert_round3on_",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\3D Inserts\\Images\\Insert_round3on_.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "Insert_round2off_",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\3D Inserts\\Images\\Insert_round2off_.png",
+    "alpha_test_value": 1.0,
+    "is_opaque": true,
+    "is_signed": false
+  },
+  {
+    "name": "Insert_round2offb",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\3D Inserts\\Images\\Insert_round2offb.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "Insert_RoundOnNew",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\3D Inserts\\Images\\Insert_RoundOnNew.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "Insert_round2onb",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\3D Inserts\\Images\\Insert_round2onb.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "Insert_RoundOn",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\3D Inserts\\Images\\Insert_RoundOn.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "Insert_RoundSmoothOn",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\3D Inserts\\Images\\Insert_RoundSmoothOn.png",
+    "alpha_test_value": 1.0,
+    "is_opaque": true,
+    "is_signed": false
+  },
+  {
+    "name": "Insert_RoundSmoothOff",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\3D Inserts\\Images\\Insert_RoundSmoothOff.png",
+    "alpha_test_value": 1.0,
+    "is_opaque": true,
+    "is_signed": false
+  },
+  {
+    "name": "Insert_RoundOff",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\3D Inserts\\Images\\Insert_RoundOff.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "Insert_RoundPinsOff",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\3D Inserts\\Images\\Insert_RoundPinsOff.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "Insert_square1off3b",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\3D Inserts\\Images\\Insert_square1off3b.png",
+    "alpha_test_value": 1.0,
+    "is_opaque": false,
+    "is_signed": false
+  },
+  {
+    "name": "Insert_square1on_",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\3D Inserts\\Images\\Insert_square1on_.png",
+    "alpha_test_value": 1.0,
+    "is_opaque": true,
+    "is_signed": false
+  },
+  {
+    "name": "Insert_triangle_equi_on1",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\3D Inserts\\Images\\Insert_triangle_equi_on1.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "Insert_RoundPinsOn",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\3D Inserts\\Images\\Insert_RoundPinsOn.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "Insert_triangle_equi_off_",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\3D Inserts\\Images\\Insert_triangle_equi_off_.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "Insert_triangle_equi_on2",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\3D Inserts\\Images\\Insert_triangle_equi_on2.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "Insert_Triangle1off",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\3D Inserts\\Images\\Insert_Triangle1off.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "Insert_triangle1off2",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\3D Inserts\\Images\\Insert_triangle1off2.png",
+    "alpha_test_value": 1.0,
+    "is_opaque": false,
+    "is_signed": false
+  },
+  {
+    "name": "Insert_triangle1on1_",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\3D Inserts\\Images\\Insert_triangle1on1_.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "Insert_RoundSmoothPinsOff",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\3D Inserts\\Images\\Insert_RoundSmoothPinsOff.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "Insert_Triangle1on",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\3D Inserts\\Images\\Insert_Triangle1on.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "Insert_triangle1on2_",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\3D Inserts\\Images\\Insert_triangle1on2_.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "Insert_RoundSmoothPinsOn",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\3D Inserts\\Images\\Insert_RoundSmoothPinsOn.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "Insert_triangle1on4",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\3D Inserts\\Images\\Insert_triangle1on4.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "Insert_triangle1on5",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\3D Inserts\\Images\\Insert_triangle1on5.png",
+    "alpha_test_value": 1.0,
+    "is_opaque": true,
+    "is_signed": false
+  },
+  {
+    "name": "Insert_triangle2offb2",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\3D Inserts\\Images\\Insert_triangle2offb2.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "Insert_triangle2onb",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\3D Inserts\\Images\\Insert_triangle2onb.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "Insert_TriangleLOff",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\3D Inserts\\Images\\Insert_TriangleLOff.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "Insert_triangle3on_",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\3D Inserts\\Images\\Insert_triangle3on_.png",
+    "alpha_test_value": 1.0,
+    "is_opaque": true,
+    "is_signed": false
+  },
+  {
+    "name": "Insert_TriangleLOn",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\3D Inserts\\Images\\Insert_TriangleLOn.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "Insert_triangle3off_",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\3D Inserts\\Images\\Insert_triangle3off_.png",
+    "alpha_test_value": 1.0,
+    "is_opaque": true,
+    "is_signed": false
+  },
+  {
+    "name": "Insert_TriangleOff",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\3D Inserts\\Images\\Insert_TriangleOff.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "Insert_square5off",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\3D Inserts\\Images\\Insert_square5off.png",
+    "alpha_test_value": 1.0,
+    "is_opaque": false,
+    "is_signed": false
+  },
+  {
+    "name": "Insert_TriangleOn",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\3D Inserts\\Images\\Insert_TriangleOn.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "flasherbloomUpperLeft",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\_Table Dev\\Example Table\\flasherbloomUpperLeft.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "Insert_square5on",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\3D Inserts\\Images\\Insert_square5on.png",
+    "alpha_test_value": 1.0,
+    "is_opaque": true,
+    "is_signed": false
+  },
+  {
+    "name": "Insert_Arrow2off_",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\3D Inserts\\Images\\Insert_Arrow2off_.png",
+    "alpha_test_value": 1.0,
+    "is_opaque": true,
+    "is_signed": false
+  },
+  {
+    "name": "Insert_Bullet_OFF_sm4",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\3D Inserts\\Images\\Insert_Bullet_OFF_sm4.png",
+    "alpha_test_value": 1.0,
+    "is_opaque": false,
+    "is_signed": false
+  },
+  {
+    "name": "Insert_Bullet_ON_sm4",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\3D Inserts\\Images\\Insert_Bullet_ON_sm4.png",
+    "alpha_test_value": 1.0,
+    "is_opaque": false,
+    "is_signed": false
+  },
+  {
+    "name": "Insert_RectangleDDOff",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\3D Inserts\\Images\\Insert_RectangleDDOff.png",
+    "alpha_test_value": 1.0,
+    "is_opaque": true,
+    "is_signed": false
+  },
+  {
+    "name": "Flbumpershadow",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\Flupper Bumpers\\Images\\Flbumpershadow.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "Insert_RectangleDDOn",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\3D Inserts\\Images\\Insert_RectangleDDOn.png",
+    "alpha_test_value": 1.0,
+    "is_opaque": true,
+    "is_signed": false
+  },
+  {
+    "name": "Flbumperbulb",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\Flupper Bumpers\\Images\\Flbumperbulb.png",
+    "alpha_test_value": 1.0,
+    "is_opaque": false,
+    "is_signed": false
+  },
+  {
+    "name": "Flbumperbase",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\Flupper Bumpers\\Images\\Flbumperbase.png",
+    "alpha_test_value": 1.0,
+    "is_opaque": false,
+    "is_signed": false
+  },
+  {
+    "name": "Flhighlight",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\Flupper Bumpers\\Images\\Flhighlight.jpg",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "Flbumperdiskred",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\Flupper Bumpers\\Images\\Flbumperdiskred.png",
+    "alpha_test_value": 1.0,
+    "is_opaque": false,
+    "is_signed": false
+  },
+  {
+    "name": "flasherbloomUpperRight",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\_Table Dev\\Example Table\\flasherbloomUpperRight.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "dtshadow2",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\_Table Dev\\Example Table\\dtshadow2.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "dtshadow1",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\_Table Dev\\Example Table\\dtshadow1.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "dtshadow3",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\_Table Dev\\Example Table\\dtshadow3.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "Insert_lightningsmalloff3",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\3D Inserts\\Images\\Insert_lightningsmalloff3.png",
+    "alpha_test_value": 1.0,
+    "is_opaque": false,
+    "is_signed": false
+  },
+  {
+    "name": "Insert_lightningsmallon4",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\3D Inserts\\Images\\Insert_lightningsmallon4.png",
+    "alpha_test_value": 1.0,
+    "is_opaque": false,
+    "is_signed": false
+  },
+  {
+    "name": "dome2litorange",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\Flupper Domes\\Flasher Textures\\dome2litorange.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "dome2baseorange",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\Flupper Domes\\Flasher Textures\\dome2baseorange.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "domeearbaseorange",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\Flupper Domes\\Flasher Textures\\domeearbaseorange.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "domeearlitorange",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\Flupper Domes\\Flasher Textures\\domeearlitorange.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "ronddomebaseorange",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\Flupper Domes\\Flasher Textures\\ronddomebaseorange.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "ronddomelitorange",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\Flupper Domes\\Flasher Textures\\ronddomelitorange.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "Insert_lightninglargeoff2",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\3D Inserts\\Images\\Insert_lightninglargeoff2.png",
+    "alpha_test_value": 1.0,
+    "is_opaque": false,
+    "is_signed": false
+  },
+  {
+    "name": "Flbumpertop",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\Flupper Bumpers\\Images\\Flbumpertop.png",
+    "alpha_test_value": 1.0,
+    "is_opaque": false,
+    "is_signed": false
+  },
+  {
+    "name": "Insert_lightninglargeon",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\3D Inserts\\Images\\Insert_lightninglargeon.png",
+    "alpha_test_value": 1.0,
+    "is_opaque": true,
+    "is_signed": false
+  },
+  {
+    "name": "PFInsertOverlay",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\_Table Dev\\Example Table\\InsertOverlay.png",
+    "alpha_test_value": 1.0,
+    "is_opaque": false,
+    "is_signed": false,
+    "jpeg_name": "InsertOverlay"
+  },
+  {
+    "name": "PF",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\_Table Dev\\Example Table\\PF.png",
+    "alpha_test_value": 1.0,
+    "is_opaque": false,
+    "is_signed": false
+  },
+  {
+    "name": "vpwinstrcard",
+    "path": "C:\\Users\\boss2\\Desktop\\vpwinstrcard.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "PF-shadows",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\_Table Dev\\Example Table\\PF-shadows.png",
+    "is_signed": false
+  },
+  {
+    "name": "PF-shadows-DT1",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\_Table Dev\\Example Table\\shadows\\PF-shadows-DT1.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "PF-shadows-DT2",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\_Table Dev\\Example Table\\shadows\\PF-shadows-DT2.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "PF-shadows-DT3",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\_Table Dev\\Example Table\\shadows\\PF-shadows-DT3.png",
+    "alpha_test_value": 1.0,
+    "is_signed": false
+  },
+  {
+    "name": "bsrtx8",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\_Table Dev\\Example Table\\shadows\\bsrtx8.png",
+    "alpha_test_value": 1.0,
+    "is_opaque": false,
+    "is_signed": false
+  },
+  {
+    "name": "VPW-ExampleTable",
+    "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\_Table Dev\\Example Table\\VPW-ExampleTable.png",
+    "is_signed": false
+  },
+  {
+    "name": "colorgradelut256x16-10",
+    "path": "C:\\VirtualPinball\\VisualPinball\\dev\\LUT\\colorgradelut256x16-10.jpg",
+    "is_signed": false
+  },
+  {
+    "name": "colorgradelut256x16-20",
+    "path": "C:\\VirtualPinball\\VisualPinball\\dev\\LUT\\colorgradelut256x16-20.jpg",
+    "is_signed": false
+  },
+  {
+    "name": "colorgradelut256x16-30",
+    "path": "C:\\VirtualPinball\\VisualPinball\\dev\\LUT\\colorgradelut256x16-30.jpg",
+    "is_signed": false
+  },
+  {
+    "name": "colorgradelut256x16-40",
+    "path": "C:\\VirtualPinball\\VisualPinball\\dev\\LUT\\colorgradelut256x16-40.jpg",
+    "is_signed": false
+  },
+  {
+    "name": "colorgradelut256x16-50",
+    "path": "C:\\VirtualPinball\\VisualPinball\\dev\\LUT\\colorgradelut256x16-50.jpg",
+    "is_signed": false
+  },
+  {
+    "name": "colorgradelut256x16-60",
+    "path": "C:\\VirtualPinball\\VisualPinball\\dev\\LUT\\colorgradelut256x16-60.jpg",
+    "is_signed": false
+  },
+  {
+    "name": "colorgradelut256x16-70",
+    "path": "C:\\VirtualPinball\\VisualPinball\\dev\\LUT\\colorgradelut256x16-70.jpg",
+    "is_signed": false
+  },
+  {
+    "name": "colorgradelut256x16-80",
+    "path": "C:\\VirtualPinball\\VisualPinball\\dev\\LUT\\colorgradelut256x16-80.jpg",
+    "is_signed": false
+  },
+  {
+    "name": "colorgradelut256x16-90",
+    "path": "C:\\VirtualPinball\\VisualPinball\\dev\\LUT\\colorgradelut256x16-90.jpg",
+    "is_signed": false
+  },
+  {
+    "name": "colorgradelut256x16-100",
+    "path": "C:\\VirtualPinball\\VisualPinball\\dev\\LUT\\colorgradelut256x16-100.jpg",
+    "is_signed": false
+  }
+]

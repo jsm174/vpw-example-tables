@@ -1,0 +1,42 @@
+{
+  "Flipper": {
+    "center": {
+      "x": -213.0,
+      "y": 901.0
+    },
+    "base_radius": 23.3,
+    "end_radius": 16.3,
+    "flipper_radius_max": 111.8,
+    "return": 0.07,
+    "start_angle": 121.0,
+    "end_angle": 69.0,
+    "override_physics": 0,
+    "mass": 1.0,
+    "is_timer_enabled": false,
+    "timer_interval": 100,
+    "surface": "",
+    "material": "Plastic White",
+    "name": "LeftFlipper_GottliebFat",
+    "rubber_material": "",
+    "rubber_thickness_int": 4,
+    "rubber_thickness": 4.2,
+    "rubber_height_int": 14,
+    "rubber_height": 14.3,
+    "rubber_width_int": 16,
+    "rubber_width": 16.0,
+    "strength": 2900.0,
+    "elasticity": 0.88,
+    "elasticity_falloff": 0.15,
+    "friction": 0.9,
+    "ramp_up": 2.5,
+    "scatter": 0.0,
+    "torque_damping": 0.375,
+    "torque_damping_angle": 6.0,
+    "flipper_radius_min": 0.0,
+    "is_visible": false,
+    "is_enabled": true,
+    "height": 50.0,
+    "image": "",
+    "is_reflection_enabled": false
+  }
+}
