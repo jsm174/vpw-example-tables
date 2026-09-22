@@ -15,7 +15,6 @@
     "scatter": 0.05,
     "is_collidable": false,
     "is_visible": true,
-    "radb": null,
     "static_rendering": false,
     "show_in_editor": false,
     "rot_x": 0.0,

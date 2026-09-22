@@ -26,7 +26,6 @@
     "is_top_bottom_visible": true,
     "slingshot_animation": true,
     "is_side_visible": true,
-    "disable_lighting_top_old": null,
     "disable_lighting_top": 0.0,
     "disable_lighting_below": 1.0,
     "is_reflection_enabled": true,

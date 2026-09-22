@@ -27,7 +27,7 @@ Each table folder contains the output of a `vpxtool extract` run:
 
 ## How they were extracted
 
-The tables were extracted with [vpxtool](https://github.com/francisdb/vpxtool) 0.33.10:
+The tables were extracted with [vpxtool](https://github.com/francisdb/vpxtool) 0.34.6:
 
 ```sh
 vpxtool extract "Example Table VPW 1.7.vpx"
@@ -38,6 +38,26 @@ The original `.vpx` files can be rebuilt from the extracted folders with:
 ```sh
 vpxtool assemble "Example Table VPW 1.7"
 ```
+
+## Refreshing after a vpxtool release
+
+The JSON layout follows the [vpin](https://github.com/francisdb/vpin) library that vpxtool bundles, so a new release can change how records are written (field names, optional records, enum encodings). To move the folders to a new version without touching the tables themselves, rebuild each `.vpx` with the version that produced the current folders, then extract it again with the new version:
+
+```sh
+# with the previous vpxtool (0.33.10)
+vpxtool assemble -f "Example Table VPW 1.7" "/tmp/Example Table VPW 1.7.vpx"
+
+# with the new vpxtool (0.34.6)
+rm -rf "Example Table VPW 1.7"
+vpxtool extract -f -o "Example Table VPW 1.7" "/tmp/Example Table VPW 1.7.vpx"
+```
+
+The resulting commit contains only the format differences between the two versions.
+
+| Extracted with | Assembled from |
+| --- | --- |
+| vpxtool 0.33.10 | the VPW downloads |
+| vpxtool 0.34.6 (vpin 0.37.0) | the 0.33.10 folders, assembled with vpxtool 0.33.10 |
 
 ## License
 

@@ -12,8 +12,6 @@
     "timer_interval": 100,
     "show_bracket": true,
     "is_collidable": true,
-    "imgf": null,
-    "imgb": null,
     "surface": "",
     "elasticity": 0.8,
     "angle_max": 1.5707964,

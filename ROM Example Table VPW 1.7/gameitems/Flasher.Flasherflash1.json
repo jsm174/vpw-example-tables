@@ -15,7 +15,7 @@
     "alpha": 1000,
     "modulate_vs_add": 0.2,
     "is_visible": true,
-    "add_blend": true,
+    "add_blend": "add",
     "is_dmd": false,
     "render_mode": null,
     "render_style": null,
